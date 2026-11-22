@@ -118,3 +118,4 @@ def generate_text_report(
         f.write(content)
 
     return output_path
+

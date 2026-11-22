@@ -76,3 +76,4 @@ def auto_categorize(description: str, current_category: Optional[str] = None) ->
                 return category
 
     return "Miscellaneous"
+

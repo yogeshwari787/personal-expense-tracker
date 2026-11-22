@@ -5,3 +5,4 @@ Contains database operations, ingestion, categorization, analytics, and visualiz
 
 __version__ = "1.0.0"
 __author__ = "Student Developer"
+

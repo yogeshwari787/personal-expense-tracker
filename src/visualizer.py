@@ -196,3 +196,4 @@ def generate_all_plots(df: pd.DataFrame, output_dir: str = "images") -> dict:
         "payment_chart": plot_payment_methods(df, os.path.join(output_dir, "payment_methods.png")),
         "daily_chart": plot_daily_spending(df, os.path.join(output_dir, "daily_spending.png"))
     }
+

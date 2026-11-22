@@ -131,3 +131,4 @@ def fetch_all_transactions(db_path: str = DEFAULT_DB_PATH) -> List[Dict[str, Any
     rows = [dict(r) for r in cur.fetchall()]
     conn.close()
     return rows
+

@@ -49,3 +49,4 @@ data/*.db
 
 # Streamlit temporary state
 .streamlit/
+

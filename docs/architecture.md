@@ -95,3 +95,4 @@ The **Personal Expense Tracker with Data Visualization** implements a decoupled,
 5. **Persistence**: Transactions are upserted into SQLite using `INSERT OR IGNORE` to guarantee idempotency.
 6. **Analytics Execution**: Group-by operations calculate category totals, monthly cash flows, and budget variances.
 7. **Rendering & Export**: Static charts are saved in `images/`, audit reports in `reports/`, and dynamic metrics are served via Streamlit.
+
