@@ -1,0 +1,63 @@
+========================================================================
+       PERSONAL EXPENSE TRACKER - MONTHLY FINANCIAL AUDIT REPORT
+========================================================================
+Generated On          : 2026-11-22 11:19:55
+Financial Health Score: 90/100 -> EXCELLENT (Strong Savings Discipline)
+------------------------------------------------------------------------
+1. EXECUTIVE FINANCIAL SUMMARY
+------------------------------------------------------------------------
+  • Total Income Recorded   : ₹183,000.00
+  • Total Expenses Incurred : ₹106,431.50
+  • Net Savings             : ₹76,568.50
+  • Overall Savings Rate    : 41.8%
+  • Average Daily Spend     : ₹950.28
+  • Highest Spend Category  : Rent & Housing (₹48,000.00 | 45.1% of total)
+  • Total Transactions      : 58 (54 debits, 4 credits)
+
+------------------------------------------------------------------------
+2. CATEGORY-WISE SPENDING BREAKDOWN
+------------------------------------------------------------------------
+Category               | Amount (INR)   | % Share   | Tx Count
+------------------------------------------------------------------------
+Rent & Housing         | ₹48,000.00     | 45.1    % | 4
+Groceries              | ₹17,340.50     | 16.3    % | 8
+Shopping               | ₹16,948.00     | 15.9    % | 6
+Utilities              | ₹7,147.00      | 6.7     % | 7
+Food & Dining          | ₹6,400.00      | 6.0     % | 11
+Health & Fitness       | ₹3,650.00      | 3.4     % | 4
+Entertainment          | ₹3,397.00      | 3.2     % | 4
+Transportation         | ₹3,250.00      | 3.0     % | 9
+Subscriptions          | ₹299.00        | 0.3     % | 1
+
+------------------------------------------------------------------------
+3. MONTH-OVER-MONTH CASH FLOW
+------------------------------------------------------------------------
+Month      | Income (INR)   | Expense (INR)  | Savings (INR)  | Savings %
+------------------------------------------------------------------------
+2026-08    | ₹45,000.00     | ₹27,426.50     | ₹17,573.50     | 39.1%
+2026-09    | ₹45,000.00     | ₹26,057.00     | ₹18,943.00     | 42.1%
+2026-10    | ₹48,000.00     | ₹30,609.00     | ₹17,391.00     | 36.2%
+2026-11    | ₹45,000.00     | ₹22,339.00     | ₹22,661.00     | 50.4%
+
+------------------------------------------------------------------------
+4. BUDGET VARIANCE & OVERSPEND MONITOR
+------------------------------------------------------------------------
+Category             | Budget      | Actual      | Variance    | Status
+------------------------------------------------------------------------
+Rent & Housing       | ₹12,500     | ₹12,000     | ₹500        | [WARNING]
+Groceries            | ₹5,000      | ₹4,100      | ₹900        | [WITHIN LIMIT]
+Shopping             | ₹4,000      | ₹2,100      | ₹1,900      | [WITHIN LIMIT]
+Utilities            | ₹2,500      | ₹1,180      | ₹1,320      | [WITHIN LIMIT]
+Food & Dining        | ₹3,000      | ₹1,030      | ₹1,970      | [WITHIN LIMIT]
+Transportation       | ₹2,000      | ₹730        | ₹1,270      | [WITHIN LIMIT]
+Entertainment        | ₹1,500      | ₹699        | ₹801        | [WITHIN LIMIT]
+Health & Fitness     | ₹2,000      | ₹500        | ₹1,500      | [WITHIN LIMIT]
+Miscellaneous        | ₹1,500      | ₹0          | ₹1,500      | [WITHIN LIMIT]
+Subscriptions        | ₹1,000      | ₹0          | ₹1,000      | [WITHIN LIMIT]
+
+------------------------------------------------------------------------
+5. ACTIONABLE PERSONAL FINANCE RECOMMENDATIONS
+------------------------------------------------------------------------
+  [✓] All monitored categories remained within planned budgetary limits.
+  [✓] Follow the 50/30/20 Rule: 50% Needs (Rent, Bills), 30% Wants (Dining, Shopping), 20% Savings.
+========================================================================

@@ -1,0 +1,59 @@
+Date,Category,Amount,Payment_Method,Description,Account
+2026-08-01,Income,45000.00,Net Banking,Monthly Stipend / Salary Credit,HDFC Bank
+2026-08-02,Rent & Housing,12000.00,Net Banking,Apartment Rent Payment,HDFC Bank
+2026-08-03,Groceries,2450.50,UPI,D-Mart Supermarket Groceries,HDFC Bank
+2026-08-04,Utilities,1120.00,UPI,Electricity Bill BESCOM,HDFC Bank
+2026-08-05,Food & Dining,480.00,UPI,Swiggy Lunch Order,HDFC Bank
+2026-08-06,Transportation,150.00,Cash,Metro Card Recharge,Cash Wallet
+2026-08-07,Entertainment,699.00,Credit Card,Netflix Monthly Subscription,Credit Card
+2026-08-08,Shopping,1899.00,Credit Card,Amazon Basics Wireless Mouse & Cable,Credit Card
+2026-08-10,Food & Dining,620.00,UPI,Zomato Weekend Dinner,HDFC Bank
+2026-08-12,Transportation,450.00,UPI,Uber Ride to College Campus,HDFC Bank
+2026-08-15,Health & Fitness,1500.00,Debit Card,Quarterly Gym Membership,HDFC Bank
+2026-08-18,Groceries,1340.00,UPI,BigBasket Vegetables and Fruits,HDFC Bank
+2026-08-20,Food & Dining,350.00,UPI,Cafe Coffee Day Study Session,HDFC Bank
+2026-08-22,Transportation,220.00,Cash,Auto Rickshaw Fare,Cash Wallet
+2026-08-25,Shopping,2499.00,Credit Card,Myntra Formal Shirt and Shoes,Credit Card
+2026-08-28,Utilities,799.00,UPI,Jio Fiber Broadband Bill,HDFC Bank
+2026-08-30,Food & Dining,850.00,Credit Card,Weekend Outing with Friends,Credit Card
+2026-09-01,Income,45000.00,Net Banking,Monthly Stipend / Salary Credit,HDFC Bank
+2026-09-02,Rent & Housing,12000.00,Net Banking,Apartment Rent Payment,HDFC Bank
+2026-09-03,Groceries,2890.00,UPI,Reliance Fresh Monthly Provisions,HDFC Bank
+2026-09-04,Utilities,1250.00,UPI,Electricity Bill BESCOM,HDFC Bank
+2026-09-06,Food & Dining,530.00,UPI,Swiggy Biryani Treat,HDFC Bank
+2026-09-08,Transportation,520.00,UPI,Uber Cab to Airport Metro,HDFC Bank
+2026-09-10,Entertainment,1199.00,Credit Card,BookMyShow Concert Tickets,Credit Card
+2026-09-12,Shopping,3200.00,Credit Card,Flipkart Electronics Sale Earbuds,Credit Card
+2026-09-15,Groceries,1640.00,UPI,Nature Basket Organic Milk & Fruits,HDFC Bank
+2026-09-18,Food & Dining,780.00,UPI,Domino's Pizza Team Lunch,HDFC Bank
+2026-09-20,Transportation,180.00,Cash,Local Bus Pass,Cash Wallet
+2026-09-22,Health & Fitness,450.00,UPI,Apollo Pharmacy Vitamins & First Aid,HDFC Bank
+2026-09-25,Subscriptions,299.00,Debit Card,Spotify Premium Student,HDFC Bank
+2026-09-28,Utilities,699.00,UPI,Jio Fiber Broadband Bill,HDFC Bank
+2026-09-30,Food & Dining,420.00,UPI,Chai Point Evening Snacks,HDFC Bank
+2026-10-01,Income,48000.00,Net Banking,Monthly Salary + Project Bonus,HDFC Bank
+2026-10-02,Rent & Housing,12000.00,Net Banking,Apartment Rent Payment,HDFC Bank
+2026-10-03,Groceries,3100.00,UPI,D-Mart Festival Groceries & Sweets,HDFC Bank
+2026-10-05,Utilities,1400.00,UPI,BESCOM Electricity & Water Utility,HDFC Bank
+2026-10-07,Shopping,5800.00,Credit Card,Amazon Great Indian Festival Sale,Credit Card
+2026-10-09,Food & Dining,950.00,Credit Card,Barbeque Nation Family Dinner,Credit Card
+2026-10-12,Transportation,650.00,UPI,Ola Outstation Cab Share,HDFC Bank
+2026-10-15,Entertainment,800.00,UPI,PVR Cinema IMAX Movie Tickets,HDFC Bank
+2026-10-18,Groceries,1820.00,UPI,Zepto Quick Grocery Delivery,HDFC Bank
+2026-10-21,Health & Fitness,1200.00,Debit Card,Annual Health Checkup Lab Test,HDFC Bank
+2026-10-24,Food & Dining,390.00,UPI,Subway Meal Combo,HDFC Bank
+2026-10-26,Transportation,350.00,Cash,Petrol for Two Wheeler,Cash Wallet
+2026-10-28,Utilities,699.00,UPI,Jio Fiber Broadband Bill,HDFC Bank
+2026-10-30,Shopping,1450.00,UPI,Campus Bookstore Python & Data Books,HDFC Bank
+2026-11-01,Income,45000.00,Net Banking,Monthly Stipend / Salary Credit,HDFC Bank
+2026-11-02,Rent & Housing,12000.00,Net Banking,Apartment Rent Payment,HDFC Bank
+2026-11-03,Groceries,2650.00,UPI,Reliance Smart Bazaar Groceries,HDFC Bank
+2026-11-05,Utilities,1180.00,UPI,Electricity BESCOM Bill,HDFC Bank
+2026-11-07,Food & Dining,620.00,UPI,Zomato Gourmet Lunch,HDFC Bank
+2026-11-09,Transportation,480.00,UPI,Uber Ride to Tech Meetup,HDFC Bank
+2026-11-12,Entertainment,699.00,Credit Card,Netflix Monthly Subscription,Credit Card
+2026-11-14,Health & Fitness,500.00,Cash,Badminton Court Booking,Cash Wallet
+2026-11-16,Shopping,2100.00,Credit Card,Uniqlo Winter Fleece Jacket,Credit Card
+2026-11-18,Groceries,1450.00,UPI,Blinkit Midnight Essentials,HDFC Bank
+2026-11-20,Food & Dining,410.00,UPI,Third Wave Coffee Workspace,HDFC Bank
+2026-11-21,Transportation,250.00,Cash,Auto Fare,Cash Wallet
